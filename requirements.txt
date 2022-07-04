@@ -10,11 +10,16 @@ ecdsa==0.17.0
 email-validator==1.2.1
 fastapi==0.78.0
 greenlet==1.1.2
+gunicorn==20.1.0
 h11==0.13.0
+httptools==0.4.0
 idna==3.3
+importlib-metadata==4.12.0
+importlib-resources==5.8.0
 jose==1.0.0
 Mako==1.2.1
 MarkupSafe==2.1.1
+numpy==1.23.0
 passlib==1.7.4
 psycopg2==2.9.3
 pyasn1==0.4.8
@@ -25,6 +30,7 @@ python-dotenv==0.20.0
 python-jose==3.3.0
 python-multipart==0.0.5
 rsa==4.8
+scipy==1.8.1
 six==1.16.0
 sniffio==1.2.0
 SQLAlchemy==1.4.39
@@ -32,3 +38,6 @@ starlette==0.19.1
 toml==0.10.2
 typing_extensions==4.3.0
 uvicorn==0.18.2
+uvloop==0.16.0
+uvtools==0.1.0
+zipp==3.8.0
