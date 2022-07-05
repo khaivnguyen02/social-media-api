@@ -29,4 +29,4 @@ app.include_router(vote.router)
 
 @app.get("/")
 def root():
-    return {"message": "Hello everyone! Welcome to my Social Media REST API"}
+    return {"message": "Hello everyone! Welcome to my Social Media REST API!"}
