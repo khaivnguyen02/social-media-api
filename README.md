@@ -4,10 +4,10 @@
 A RESTful API for a social media app. Built with FastAPI and PostgresQL
 
 ## Usage
-1.Clone the repo
+1. Clone the repo
 2. Install dependencies and packages with `pip install -r requirements.txt`
-4. Run `uvicorn app.main:app --reload` to run the server and make the API live
-5. Use your browser or Postman to test the REST API.
+3. Run `uvicorn app.main:app --reload` to run the server and make the API live
+4. Use your browser(with built-in SwaggerUI: add /docs to URL) or Postman to test the REST API.
 
 ## Endpoints
 **Posts**
