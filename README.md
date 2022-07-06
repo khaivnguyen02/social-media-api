@@ -3,6 +3,8 @@
 ## Description
 A RESTful API for a social media app. Built with FastAPI and PostgresQL
 
+Deployed on Heroku: https://social-media-api-jason.herokuapp.com/ and Ubuntu VM: https://www.khaivnguyen02.xyz/
+
 ## Usage
 1. Clone the repo
 2. Install dependencies and packages with `pip install -r requirements.txt`
