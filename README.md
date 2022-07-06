@@ -20,5 +20,6 @@ A RESTful API for a social media app. Built with FastAPI and PostgresQL
 - Create a user:        `POST /users`
 - Get user by ID:       `GET /users/:id`
 - Login a user:         `POST /login`
+
 **Vote/Like System**
 - Like/Unlike a post:       `POST /vote`
